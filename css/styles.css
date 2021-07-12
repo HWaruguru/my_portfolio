@@ -206,4 +206,7 @@ p {
     border: white;
 }
 
-.click :hover {}
+.contact {
+    margin: 10px;
+    align-items: center;
+}
