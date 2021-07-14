@@ -134,6 +134,14 @@ p {
 .myphoto {
     margin-bottom: 10px;
     margin-top: 10px;
+    margin-left: 16rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.photoText {
+    margin-top: 10px;
 }
 
 .barcontainerheader {
@@ -203,7 +211,7 @@ p {
 
 .click {
     background-color: turquoise !important;
-    border: white;
+    border: white!important;
 }
 
 .contact {
